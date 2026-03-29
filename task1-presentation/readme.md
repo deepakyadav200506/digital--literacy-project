@@ -9,5 +9,6 @@ It covers the following topics related to Digital Literacy:
 - Safe internet practices (strong passwords, privacy settings)
 - Awareness about cyberbullying
 - Professional online presence tips.
+  <br>
   One thing I found interesting while making it was learning how 
 to present information visually in a simple and clear way.
