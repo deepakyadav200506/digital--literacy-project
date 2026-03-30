@@ -49,7 +49,7 @@ google form - https://docs.google.com/forms/d/e/1FAIpQLSeUebJfUNN8t1Ygts3T7l-Z97
 <br>
 inforgraphic link - https://www.canva.com/design/DAHFCy2kOmg/thXdXm8OuW8KYCqtabMEyA/view?utm_content=DAHFCy2kOmg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h356176d0ce
 <br>
-hackerRank profile - 
+hackerRank profile - https://www.hackerrank.com/profile/dy0885325
 <br>
 <br>
 Through this project, I learned:
