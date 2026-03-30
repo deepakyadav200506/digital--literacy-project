@@ -45,9 +45,11 @@ Created case study on UPI/Online Payment Fraud Designed "Stay Safe Online" preve
 ### Useful links
 kaggle profile-https://www.kaggle.com/
 <br>
-google form -
+google form - https://docs.google.com/forms/d/e/1FAIpQLSeUebJfUNN8t1Ygts3T7l-Z97D2s-FHNWvU9TtdpYidERWr8g/viewform?usp=header
 <br>
-inforgraphic link -https://www.canva.com/design/DAHFCy2kOmg/thXdXm8OuW8KYCqtabMEyA/view?utm_content=DAHFCy2kOmg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h356176d0ce
+inforgraphic link - https://www.canva.com/design/DAHFCy2kOmg/thXdXm8OuW8KYCqtabMEyA/view?utm_content=DAHFCy2kOmg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h356176d0ce
+<br>
+hackerRank profile - 
 <br>
 <br>
 Through this project, I learned:
